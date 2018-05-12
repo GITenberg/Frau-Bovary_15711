@@ -1,0 +1,45 @@
+_repo: Frau-Bovary_15711
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Schurig, Arthur
+    alias: Schurig, Artur
+    birthdate: 1870
+    deathdate: 1929
+    gutenberg_agent_id: '6217'
+    url: http://www.gutenberg.org/2009/agents/6217
+    wikipedia: http://gutenberg.spiegel.de/index.php?id=19&autorid=539
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Flaubert, Gustave
+    birthdate: 1821
+    deathdate: 1880
+    gutenberg_agent_id: '574'
+    url: http://www.gutenberg.org/2009/agents/574
+    wikipedia: http://en.wikipedia.org/wiki/Gustave_Flaubert
+description: ''
+gutenberg_bookshelf:
+- Best Books Ever Listings
+- DE Prosa
+gutenberg_issued: '2005-04-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15711'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Married women -- Fiction'
+- !lcsh 'Suicide victims -- Fiction'
+- !lcsh 'Middle class -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'France -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Adultery -- Fiction'
+- !lcsh 'Physicians'' spouses -- Fiction'
+title: Frau Bovary
+url: http://www.gutenberg.org/ebooks/15711
